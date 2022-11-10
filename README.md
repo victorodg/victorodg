@@ -1,6 +1,22 @@
 ## Hi 👋 My name is Victor Odaguiri!
-### Data Analyst
-I've been working as a Data Analyst for 2 years, using Python for data processing. I usually use Pandas library and some web scraping as well. I study Information Systems at University of Sao Paulo, and I'm also learning a bit of web development by myself.* 🌍  I'm based in São Paulo* ✉️  You can contact me at [victor.odg@hotmail.com](mailto:victor.odg@hotmail.com)* ⚡  I'm interested in having an international experience, so I'm open to new possibilities.
+
+### <div align="left">full-time Data Analyst 👨‍💻 working remotely since 2020 🚀</div>  
+
+
+  
+
+- 🔭 I’m currently working at [Itaú Unibanco](https://www.itau.com.br/)  
+  
+
+- 🌱 I’m currently learning web development  
+  
+
+-  🌎 I'm based in São Paulo, Brazil  
+  
+
+- 📫 You can contact me at victor.odg@hotmail.com  
+  
+
 
 ### Skills
 
@@ -15,3 +31,7 @@ I've been working as a Data Analyst for 2 years, using Python for data processin
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/victorodg"><img src="https://github-readme-stats.vercel.app/api?username=victorodg&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="victorodg's GitHub stats" /></a>
+
+### Spotify  
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=22l3h6qalzkh2ur5kepezig4y&cover_image=true&theme=default&show_offline=false&background_color=121212" /></div>
+<br />
