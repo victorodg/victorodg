@@ -33,5 +33,5 @@
 <a href="http://www.github.com/victorodg"><img src="https://github-readme-stats.vercel.app/api?username=victorodg&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="victorodg's GitHub stats" /></a>
 
 ### Spotify  
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=22l3h6qalzkh2ur5kepezig4y&cover_image=true&theme=default&show_offline=false&background_color=121212" /></div>
+<div align="left"><img src="https://spotify-github-profile.vercel.app/api/view?uid=22l3h6qalzkh2ur5kepezig4y&cover_image=true&theme=default&show_offline=false&background_color=121212" /></div>
 <br />
