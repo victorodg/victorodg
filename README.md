@@ -1,5 +1,6 @@
-Hi 👋 My name is Victor Odaguiri!
-=================================Data Analyst------------I've been working as a Data Analyst for 2 years, using Python for data processing. I usually use Pandas library and some web scraping as well. I study Information Systems at University of Sao Paulo, and I'm also learning a bit of web development by myself.* 🌍  I'm based in São Paulo* ✉️  You can contact me at [victor.odg@hotmail.com](mailto:victor.odg@hotmail.com)* ⚡  I'm interested in having an international experience, so I'm open to new possibilities.
+## Hi 👋 My name is Victor Odaguiri!
+### Data Analyst
+I've been working as a Data Analyst for 2 years, using Python for data processing. I usually use Pandas library and some web scraping as well. I study Information Systems at University of Sao Paulo, and I'm also learning a bit of web development by myself.* 🌍  I'm based in São Paulo* ✉️  You can contact me at [victor.odg@hotmail.com](mailto:victor.odg@hotmail.com)* ⚡  I'm interested in having an international experience, so I'm open to new possibilities.
 
 ### Skills
 
