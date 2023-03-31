@@ -8,7 +8,7 @@
 - 🔭 I’m currently working at [Itaú Unibanco](https://www.itau.com.br/)  
   
 
-- 🌱 I’m currently learning web development  
+- 🌱 I’m currently learning Rust  
   
 
 -  🌎 I'm based in São Paulo, Brazil  
